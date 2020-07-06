@@ -2,8 +2,4 @@ This is created by Chhaya.
 
 This is trial file done by chhaya independently.
 
-<<<<<<< HEAD
 Simultaneouly edited by Ashok Mudalagi
-=======
-Again this line added by chhaya.
->>>>>>> baea600847de0f95d5fb33c4d0e395b9207c8fbd
